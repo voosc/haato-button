@@ -1,0 +1,460 @@
+{
+  "groups": [
+    {
+      "group_name": "尖叫心",
+      "group_description": {
+        "zh": "尖叫心",
+        "ja": "叫びはあと",
+        "en": "sreamingHaato"
+      },
+      "voice_list": [
+        {
+          "name": "尖叫心01（兔子人）",
+          "path": "1.尖叫心/尖叫心01（兔子人）.mp3",
+          "description": {
+            "zh": "尖叫心01（兔子人）",
+            "ja": "叫びはあと01（スーパーバニーマン）",
+            "en": "sreamingHaato01 (super bunny man)"
+          }
+        },
+        {
+          "name": "尖叫心02（兔子人）",
+          "path": "1.尖叫心/尖叫心02（兔子人）.mp3",
+          "description": {
+            "zh": "尖叫心02（兔子人）",
+            "ja": "叫びはあと02（スーパーバニーマン）",
+            "en": "sreamingHaato02 (super bunny man)"
+          }
+        },
+        {
+          "name": "尖叫心03（兔子人）",
+          "path": "1.尖叫心/尖叫心03（兔子人）.mp3",
+          "description": {
+            "zh": "尖叫心03（兔子人）",
+            "ja": "叫びはあと03（スーパーバニーマン）",
+            "en": "sreamingHaato03 (super bunny man)"
+          }
+        },
+        {
+          "name": "尖叫心04（兔子人）-这种事情都没听说过呀",
+          "path": "1.尖叫心/尖叫心04（兔子人）-这种事情都没听说过呀.mp3",
+          "description": {
+            "zh": "尖叫心04（兔子人）-这种事情都没听说过呀",
+            "ja": "叫びはあと04（スーパーバニーマン）（そんなこと聞いてないよ）",
+            "en": "sreamingHaato04 (super bunny man) (I've never heard of such thing!)"
+          }
+        },
+        {
+          "name": "尖叫心05（事故物件）",
+          "path": "1.尖叫心/尖叫心05（事故物件）.mp3",
+          "description": {
+            "zh": "尖叫心05（事故物件）",
+            "ja": "叫びはあと05（事故物件）",
+            "en": "sreamingHaato05 (Stigmatized Property - A PC game)"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "萝莉心",
+      "group_description": {
+        "zh": "萝莉心",
+        "ja": "ロリはあと",
+        "en": "loliHaato"
+      },
+      "voice_list": [
+        {
+          "name": "萝莉心01-（胜利）",
+          "path": "2.萝莉心/萝莉心01-（胜利）.mp3",
+          "description": {
+            "zh": "萝莉心01-（胜利）",
+            "ja": "ロリはあと01 （勝利）",
+            "en": "loliHaato01 （winning）"
+          }
+        },
+        {
+          "name": "萝莉心02-辱骂",
+          "path": "2.萝莉心/萝莉心02-辱骂.mp3",
+          "description": {
+            "zh": "萝莉心02-（辱骂）",
+            "ja": "ロリはあと02 （バカバカバカアホアホアホバカアホバカアホバカアホ）",
+            "en": "loliHaato02 (bad words)"
+          }
+        },
+        {
+          "name": "萝莉心03-看着我可爱的身姿被萌死吧mp3",
+          "path": "2.萝莉心/萝莉心03-看着我可爱的身姿被萌死吧mp3.mp3",
+          "description": {
+            "zh": "萝莉心03-（看着我可爱的身姿被萌死吧）",
+            "ja": "ロリはあと03 （私の可愛い姿を見て萌え死にしなさい）",
+            "en": "loliHaato03 (Just watch and die of my cuteness )"
+          }
+        },
+        {
+          "name": "萝莉心04-贵安，我是心心哟",
+          "path": "2.萝莉心/萝莉心04-贵安，我是心心哟.mp3",
+          "description": {
+            "zh": "萝莉心04-贵安，我是心心哟",
+            "ja": "ロリはあと04 （こんにちは、あかいはあとで～す）",
+            "en": "loliHaato04 (Hello everyone, AkaiHaato here~)"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "辱骂心",
+      "group_description": {
+        "zh": "辱骂心",
+        "ja": "罵りはあと",
+        "en": "badWordsHaato"
+      },
+      "voice_list": [
+        {
+          "name": "辱骂心01",
+          "path": "3.辱骂心/辱骂心01.mp3",
+          "description": {
+            "zh": "辱骂心01",
+            "ja": "罵りはあと01 （気持ち悪い）",
+            "en": "badWordsHaato01 (You're so disgusting!)"
+          }
+        },
+        {
+          "name": "辱骂心02-你这抖M猪",
+          "path": "3.辱骂心/辱骂心02-你这抖M猪.mp3",
+          "description": {
+            "zh": "辱骂心02-你这抖M猪",
+            "ja": "罵りはあと02 （このドM豚が！ウェェェェェェェェ）",
+            "en": "badWordsHaato02 (You masochist pig! )"
+          }
+        },
+        {
+          "name": "辱骂心03",
+          "path": "3.辱骂心/辱骂心03.mp3",
+          "description": {
+            "zh": "辱骂心03",
+            "ja": "罵りはあと03 （意味分かんないよバカバカバカ！何言ってんのかさっぱり分かんないよ気持ち悪い）",
+            "en": "badWordsHaato03 (Don't understand your any fxxking words! You're so stupid! So disgusting!)"
+          }
+        },
+        {
+          "name": "辱骂心04",
+          "path": "3.辱骂心/辱骂心04.mp3",
+          "description": {
+            "zh": "辱骂心04",
+            "ja": "罵りはあと03 （気持ち悪い気持ち悪い気持ち悪い うるさいうるさいうるさい あんたなんでこんなクソマロ送るんだよ バカ！)",
+            "en": "badWordsHaato04 (disgusting! disgusting! sooooo disgusting! why did you send me such a ridiculous mashimaro! )"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "通常",
+      "group_description": {
+        "zh": "通常",
+        "ja": "通常",
+        "en": "regular"
+      },
+      "voice_list": [
+        {
+          "name": "通常01（兔子人）",
+          "path": "4.通常/通常01（兔子人）.mp3",
+          "description": {
+            "zh": "通常01（兔子人）",
+            "ja": "通常01（スーパーバニーマン）（やばい！ 嬉しい）",
+            "en": "regular01 (super bunny man) （Oh my! I'm so happy）"
+          }
+        },
+        {
+          "name": "通常02（兔子人）-反派笑声",
+          "path": "4.通常/通常02（兔子人）-反派笑声.mp3",
+          "description": {
+            "zh": "通常02（兔子人）-反派笑声",
+            "ja": "通常02（スーパーバニーマン）悪役の笑い声",
+            "en": "regular02 (super bunny man) (the laughter of an evil character)"
+          }
+        },
+        {
+          "name": "通常03-杂鱼之歌",
+          "path": "4.通常/通常03-杂鱼之歌.mp3",
+          "description": {
+            "zh": "通常03-杂鱼之歌",
+            "ja": "通常03（雑魚の歌）",
+            "en": "regular03 (The song of Zako/noob)"
+          }
+        },
+        {
+          "name": "通常04-这是赤井心哦",
+          "path": "4.通常/通常04-这是赤井心哦.mp3",
+          "description": {
+            "zh": "通常04-这是赤井心哦",
+            "ja": "通常04（おはるーじゅ 赤いはあとよ）",
+            "en": "regular04 (MorningRouge, it's AkaiHaato)"
+          }
+        },
+        {
+          "name": "通常05-你都做了什么呀，不可原谅",
+          "path": "4.通常/通常05-你都做了什么呀，不可原谅.mp3",
+          "description": {
+            "zh": "通常05-你都做了什么呀，不可原谅",
+            "ja": "通常05（何作ってるのよ あなた！許せない！）",
+            "en": "regular05 (What the damn have you done! I won't forgive you )"
+          }
+        },
+        {
+          "name": "通常06-社畜什么的，去给我好好工作呀",
+          "path": "4.通常/通常06-社畜什么的，去给我好好工作呀.mp3",
+          "description": {
+            "zh": "通常06-社畜什么的，去给我好好工作呀",
+            "ja": "通常06（社畜、社畜なの？あなたwww 仕事頑張りなさいよ）",
+            "en": "regular06 (wage slave? You're wage slave? OK, go back to work now)"
+          }
+        },
+        {
+          "name": "通常07-neeee这个不妙呀",
+          "path": "4.通常/通常07-neeee这个不妙呀.mp3",
+          "description": {
+            "zh": "通常07-neeee这个不妙呀",
+            "ja": "通常07（ねぇぇぇぇ やばいってこれ！）",
+            "en": "regular07 (NEEEEEEE, it's really not good!)"
+          }
+        },
+        {
+          "name": "通常08-呜呜呜不要啊",
+          "path": "4.通常/通常08-呜呜呜不要啊.mp3",
+          "description": {
+            "zh": "通常08-呜呜呜不要啊",
+            "ja": "通常08（ううう やだ～～～）",
+            "en": "regular08 (Ummmm, don't do this to me )"
+          }
+        },
+        {
+          "name": "通常09-哈恰马其实是homo哦",
+          "path": "4.通常/通常09-哈恰马其实是homo哦.mp3",
+          "description": {
+            "zh": "通常09-哈恰马其实是homo哦",
+            "ja": "通常09（はあちゃま 実はホモなんだ）",
+            "en": "regular08 (Actually, HAACHAMA is a homosexual)"
+          }
+        },
+        {
+          "name": "通常10-哈恰马才没有什么错对吧（wtm直接复刻）",
+          "path": "4.通常/通常10-哈恰马才没有什么错对吧（wtm直接复刻）.mp3",
+          "description": {
+            "zh": "通常10-哈恰马才没有什么错对吧（wtm直接复刻）",
+            "ja": "通常10（はあちゃまは 悪くないよね～～）(わため完全復刻)",
+            "en": "regular10 (HAACHAMA did nothing wrong! (Completely copy from Tsunomaki Watame) )"
+          }
+        },
+        {
+          "name": "通常11-喷嚏",
+          "path": "4.通常/通常11-喷嚏.mp3",
+          "description": {
+            "zh": "通常11-喷嚏",
+            "ja": "通常11（くしゃみ）",
+            "en": "regular11 (Sneeze)"
+          }
+        },
+        {
+          "name": "通常12-心心厨房歌",
+          "path": "4.通常/通常12-心心厨房歌.mp3",
+          "description": {
+            "zh": "通常12-心心厨房歌",
+            "ja": "通常12（はあちゃまクッキングソング）",
+            "en": "regular12 (HAACHAMA COOKING THEME SONG)"
+          }
+        },
+        {
+          "name": "通常13-心心打喷嚏",
+          "path": "4.通常/通常13-心心打喷嚏.mp3",
+          "description": {
+            "zh": "通常13-喷嚏*2",
+            "ja": "通常13（くしゃみ連発）",
+            "en": "regular13 (Sneeze multi times)"
+          }
+        },
+        {
+          "name": "通常14-这就是命运，我们诞生既是为了相遇",
+          "path": "4.通常/通常14-这就是命运，我们诞生既是为了相遇.mp3",
+          "description": {
+            "zh": "通常14-这就是命运，我们诞生既是为了相遇",
+            "ja": "通常14（これが運命というものよ、君は、君と私は、出会うため、生まれたんだ）",
+            "en": "regular14 (This is the so called 'destiny'. You and me, are born just for meeting each other)"
+          }
+        },
+        {
+          "name": "通常15-心心op",
+          "path": "4.通常/通常15-心心op.mp3",
+          "description": {
+            "zh": "通常15-心心op",
+            "ja": "通常15（はあちゃまオープンニングソング）",
+            "en": "regular15 (HAACHAMA OPENING SONG)"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "学中文",
+      "group_description": {
+        "zh": "学中文",
+        "ja": "中国語お勉強",
+        "en": "learningChinese"
+      },
+      "voice_list": [
+        {
+          "name": "学中文01-但是拒绝",
+          "path": "5.学中文/学中文01-但是拒绝.mp3",
+          "description": {
+            "zh": "学中文01-但是拒绝",
+            "ja": "中国語お勉強01（だが断る）",
+            "en": "learningChinese01 (But I refuse!)"
+          }
+        },
+        {
+          "name": "学中文02-你好吗",
+          "path": "5.学中文/学中文02-你好吗.mp3",
+          "description": {
+            "zh": "学中文02-你好吗",
+            "ja": "中国語お勉強02（お元気ですか）",
+            "en": "learningChinese02 (Nice to meet you)"
+          }
+        },
+        {
+          "name": "学中文03-你好骚啊",
+          "path": "5.学中文/学中文03-你好骚啊.mp3",
+          "description": {
+            "zh": "学中文03-你好骚啊",
+            "ja": "中国語お勉強03（お前、チャラいね）",
+            "en": "learningChinese03 (You're such a flirt.)"
+          }
+        },
+        {
+          "name": "学中文04-你在想peach？",
+          "path": "5.学中文/学中文04-你在想peach？.mp3",
+          "description": {
+            "zh": "学中文04-你在想peach？",
+            "ja": "中国語お勉強04（妄想をすんなよ）",
+            "en": "learningChinese04 (Stop daydreaming OK?)"
+          }
+        },
+        {
+          "name": "学中文05-我是猪",
+          "path": "5.学中文/学中文05-我是猪.mp3",
+          "description": {
+            "zh": "学中文05-我是猪",
+            "ja": "中国語お勉強05（私は豚です）",
+            "en": "learningChinese05 (I'm pig)"
+          }
+        },
+        {
+          "name": "学中文06-你叫什么？你叫dd",
+          "path": "5.学中文/学中文06-你叫什么？你叫dd.mp3",
+          "description": {
+            "zh": "学中文06-你叫什么？你叫dd",
+            "ja": "中国語お勉強06（君の名は？ddですよね）",
+            "en": "learningChinese06 (What's your name? Your name is 'dd / LOVE EVERYONE')"
+          }
+        },
+        {
+          "name": "学中文07-你喝不喝咖啡？",
+          "path": "5.学中文/学中文07-你喝不喝咖啡？.mp3",
+          "description": {
+            "zh": "学中文07-你喝不喝咖啡？",
+            "ja": "中国語お勉強07（コーヒー飲む？）",
+            "en": "learningChinese07 (do you drink coffee?)"
+          }
+        },
+        {
+          "name": "学中文08-DD斩首，变态斩首",
+          "path": "5.学中文/学中文08-DD斩首，变态斩首.mp3",
+          "description": {
+            "zh": "学中文08-DD斩首，变态斩首",
+            "ja": "中国語お勉強08（DDは打ち首、変態も打ち首）",
+            "en": "learningChinese07 (DD / LOVE　EVERYONE and hentais need to be beheaded)"
+          }
+        },
+        {
+          "name": "学中文09-变态傻瓜别朝这里看",
+          "path": "5.学中文/学中文09-变态傻瓜别朝这里看.mp3",
+          "description": {
+            "zh": "学中文09-变态傻瓜别朝这里看",
+            "ja": "中国語お勉強09（変態、バカ、こっちを見るな！）",
+            "en": "learningChinese09 (Hentai, Stupid, Don't look at me!)"
+          }
+        },
+        {
+          "name": "学中文10-吃葡萄不吐葡萄皮",
+          "path": "5.学中文/学中文10-吃葡萄不吐葡萄皮.mp3",
+          "description": {
+            "zh": "学中文10-吃葡萄不吐葡萄皮",
+            "ja": "中国語お勉強10（早口言葉：葡萄を食べて葡萄の皮を吐かない）",
+            "en": "learningChinese10 (tonetwisting: eating grapes and don't spit grape's skin)"
+          }
+        },
+        {
+          "name": "学中文11-你好骚啊",
+          "path": "5.学中文/学中文11-你好骚啊.mp3",
+          "description": {
+            "zh": "学中文11-你好骚啊",
+            "ja": "中国語お勉強11（お前、チャラいね）",
+            "en": "learningChinese11 (You're such a flirt)"
+          }
+        },
+        {
+          "name": "学中文12-我很可爱",
+          "path": "5.学中文/学中文12-我很可爱.mp3",
+          "description": {
+            "zh": "学中文12-我很可爱",
+            "ja": "中国語お勉強12（私はとても可愛い）",
+            "en": "learningChinese12 (I'm so cute)"
+          }
+        },
+        {
+          "name": "学中文13-我最喜欢你啦",
+          "path": "5.学中文/学中文13-我最喜欢你啦.mp3",
+          "description": {
+            "zh": "学中文13-我最喜欢你啦",
+            "ja": "中国語お勉強13（私、あなたが大好きです）",
+            "en": "learningChinese13 (I love you)"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "hso",
+      "group_description": {
+        "zh": "hso",
+        "ja": "エッチのやつ",
+        "en": "lewd words"
+      },
+      "voice_list": [
+        {
+          "name": "喂！下半身·不脱吗？",
+          "path": "6.hso/喂！下半身·不脱吗？.mp3",
+          "description": {
+            "zh": "喂！下半身·不脱吗？",
+            "ja": "ね～下半身、脱がないの？",
+            "en": "Emm, don't you take off... your bottom cloth?"
+          }
+        },
+        {
+          "name": "百奇",
+          "path": "6.hso/百奇.mp3",
+          "description": {
+            "zh": "百奇",
+            "ja": "いや～そんなに～～～～つよ、く…うう～～だめぇぇぇぇ～～～～～ああ～～～～～ポッキー折れちゃった",
+            "en": "Oh... not... not so hard... Hmm, the pocky is broken"
+          }
+        },
+        {
+          "name": "这种事在办公室里可不行哦不快点回去工作的话会被骂的啊",
+          "path": "6.hso/这种事在办公室里可不行哦不快点回去工作的话会被骂的啊.mp3",
+          "description": {
+            "zh": "这种事在办公室里可不行哦不快点回去工作的话会被骂的啊",
+            "ja": "こんな、オフィスでだめですよ。早く仕事に戻らないと、怒られますってば",
+            "en": "Wait, we can't do such thing in the office. We must go back to work now, or it will be a big deal"
+          }
+        }
+      ]
+    }
+  ]
+}
