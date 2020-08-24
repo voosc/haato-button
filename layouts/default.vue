@@ -84,8 +84,7 @@
       app
     >
       <v-app-bar-nav-icon class="white--text" @click.stop="drawer = !drawer" />
-      <v-toolbar-title v-text="$t('site.title') + '(^・ω・^§)ﾉ'" />
-      <v-img src="/img/oruyanke_transparent.png" style="max-width: 24px; margin-left: 6px;" />
+      <v-toolbar-title v-text="$t('site.title') + '❤️'" />
       <v-spacer />
       <v-tooltip bottom>
         <template v-slot:activator="{ on }">
@@ -160,7 +159,6 @@
         </div>
       </v-footer>
     </v-main>
-    <console-message />
   </v-app>
 </template>
 
@@ -178,10 +176,10 @@ $blur-function: blur(3px);
   }
 }
 .gradient-header-light {
-  background-image: linear-gradient(120deg, #1e64aa 0%, #55c8ff 100%) !important;
+  background-image: linear-gradient(120deg, #ff8f00 0%, #ffca28 100%) !important;
 }
 .gradient-header-dark {
-  background-image: linear-gradient(120deg, #003c78 0%, #0087c8 100%) !important;
+  background-image: linear-gradient(120deg, #ee8600 0%, #eaba25 100%) !important;
 }
 .nav-drawer-img {
   width: auto;
@@ -214,10 +212,10 @@ a {
 .page {
   box-sizing: border-box;
   min-height: 100%;
-  padding-bottom: 150px;
+  padding-bottom: 100px;
 }
 .footer {
-  margin-top: -150px;
+  margin-top: -100px;
 }
 </style>
 

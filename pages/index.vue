@@ -193,23 +193,23 @@ export default {
     },
     dark_text() {
       return {
-        'grey--text text--lighten-2': this.$vuetify.theme.dark
+        'grey--text text--lighten-4': this.$vuetify.theme.dark
       };
     },
     voice_button_color() {
       return {
-        'light-blue darken-4': this.$vuetify.theme.dark,
-        'blue lighten-2 white--text': !this.$vuetify.theme.dark
+        'orange darken-2': this.$vuetify.theme.dark,
+        'amber darken-2 white--text': !this.$vuetify.theme.dark
       };
     },
     fab_icon() {
-      return [this.$vuetify.theme.dark ? 'white--text' : 'light-blue--text'];
+      return [this.$vuetify.theme.dark ? 'white--text' : 'red--text'];
     },
     fab_color() {
-      return [this.$vuetify.theme.dark ? 'indigo darken-1' : 'white'];
+      return [this.$vuetify.theme.dark ? 'red darken-3' : 'white'];
     },
     speed_dial_color: function () {
-      return [this.$vuetify.theme.dark ? 'cyan darken-1' : 'cyan lighten-2'];
+      return [this.$vuetify.theme.dark ? 'red darken-2' : 'red lighten-1'];
     },
     current_locale() {
       return this.$i18n.locale;
@@ -340,7 +340,7 @@ export default {
   head() {
     return {
       title: this.$t('site.title'),
-      link: [{ rel: 'canonical', href: 'https://haato.moe' }]
+      link: [{ rel: 'canonical', href: 'https://haato.club' }]
     };
   }
 };

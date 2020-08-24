@@ -8,7 +8,7 @@ README: [中文](https://github.com/voosc/haato-button/blob/master/README.md) | 
 
 > Brand new voice buttons for Akai Haato, we are aimming at building a comprehensive project related to Akai Haato.
 
-Project Homepage: https://haato-button.vercel.app
+Project Homepage: https://haato.club
 
 Related Links:
 
@@ -56,6 +56,8 @@ To deploy a local development environment, first install the latest version of N
 
 ## Contributors
 
+This project is based on [Fubuki Button](https://github.com/voosc/haato-button).
+
 Development:
 
 - [Lonely Ion](https://github.com/lonelyion)
@@ -99,6 +101,6 @@ Proudly using BrowserStack.
 
 Powered by Vercel.
 
-[![vercel.png](https://i.loli.net/2020/07/18/rPah8FVmqBXL6dj.png)](https://www.vercel.com/?utm_source=oruyanke)
+[![vercel.png](https://i.loli.net/2020/07/18/rPah8FVmqBXL6dj.png)](https://www.vercel.com/?utm_source=oruyanke&utm_campaign=oss)
 
 > **​Vercel** is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. It enables developers to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.

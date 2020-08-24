@@ -8,7 +8,7 @@ README: [中文](https://github.com/voosc/haato-button/blob/master/README.md) | 
 
 > 新しい赤井はあとのボイスボタン。赤井はあとの総合ファンページを目指します。
 
-ホームページ https://fubuki.moe
+ホームページ https://haato.club
 
 関連リンク:
 
@@ -25,7 +25,7 @@ README: [中文](https://github.com/voosc/haato-button/blob/master/README.md) | 
 
 ## このプロジェクトへの貢献(コントリビュート)
 
-GitHubの開発に直接参加する方法が分からない場合は、素材や意見を直接以下のメールアドレスに送信してください。([voice@fubuki.moe](mailto:voice@fubuki.moe))。またメールの中にタイトル、内容及びあなたのID（Bilibili、Twitterやその他）を記述してください。そうすることで私達は下のコントリビューターリストにあなたの名前を掲載することができます。
+GitHubの開発に直接参加する方法が分からない場合は、素材や意見を直接以下のメールアドレスに送信してください。([haato@fubuki.moe](mailto:haato@fubuki.moe))。またメールの中にタイトル、内容及びあなたのID（Bilibili、Twitterやその他）を記述してください。そうすることで私達は下のコントリビューターリストにあなたの名前を掲載することができます。
 
 もしくは素材や意見をGitHubの[Issues](https://github.com/voosc/haato-button/issues) ページに送ることもできます。メールの場合と同じようにタイトルと内容を記述してください。
 
@@ -64,31 +64,21 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 開発:
 
 - [孤独のイオン](https://github.com/lonelyion)
-- [Asrui Morus](https://github.com/Morxi)
 
 オーディオクリップ：
 
-- Bilibili [孤单离子](https://space.bilibili.com/7564991)
-- Bilibili [清流ht](https://space.bilibili.com/22311554)
-- Bilibili [绯月天则](https://space.bilibili.com/1592713)
-- Bilibili [hanyuu](https://m.bilibili.com/space/356250024)
-- Bilibili [蓝颜知渡](https://space.bilibili.com/378488520)
+- 迷猫
+- 绝望二足兽
 
 翻訳：
 
-- Twitter [噬魂韓植](https://twitter.com/S_H_H_Z1108)
-- GitHub [Dakumasu](https://github.com/dakuamsu)
-- GitHub [Yourein](https://github.com/Yourein)
-- Twitter [nekoy0212anagi](https://twitter.com/nekoy0212anagi)
-- GitHub [Emmmer](https://github.com/AkaiEmmmer)
+- takanemanaka
 
 特別協力：
 
-- [VTuber Music](https://vtbmusic.com/)
-- Bilibili [吹雪的猫咪茶铺](https://space.bilibili.com/431210892/)
-- Bilibili [赤井吹雪周报](https://space.bilibili.com/487763794)
-- Bilibili [戌神沁音的手指面包店](https://space.bilibili.com/45070033)
-- Bilibili [亡音ちゃん](https://space.bilibili.com/2613724)
+- [赤井心保护协会](https://space.bilibili.com/157389653)
+- [御宅白狐的狐笋之林](https://space.bilibili.com/314977548)
+
 - そして、GitHubでこのプロジェクトに参加した以下の人々
 
 [![GitHub Contributors](https://contributors-img.web.app/image?repo=voosc/haato-button)](https://github.com/voosc/haato-button/graphs/contributors)
@@ -115,6 +105,6 @@ Proudly using BrowserStack.
 
 Powered by Vercel.
 
-[![vercel.png](https://i.loli.net/2020/07/18/rPah8FVmqBXL6dj.png)](https://www.vercel.com/?utm_source=oruyanke)
+[![vercel.png](https://i.loli.net/2020/07/18/rPah8FVmqBXL6dj.png)](https://www.vercel.com/?utm_source=oruyanke&utm_campaign=oss)
 
 > **​Vercel** is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. It enables developers to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.

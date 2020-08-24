@@ -8,7 +8,7 @@ README: **中文** | [日本語](https://github.com/voosc/haato-button/blob/mast
 
 > 哈恰玛~哈恰玛~
 
-临时地址： https://haato-button.vercel.app
+主页： https://haato.club
 
 相关链接:
 

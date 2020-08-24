@@ -30,14 +30,14 @@ export default {
       },
       { hid: 'og:site_name', property: 'og:site_name', content: 'はあとボタン' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: 'https://haato.moe' },
+      { hid: 'og:url', property: 'og:url', content: 'https://haato.club' },
       { hid: 'og:title', property: 'og:title', content: 'はあとボタン' },
       {
         hid: 'og:description',
         property: 'og:description',
         content: '新しい赤井はあとのボイスボタン。'
       },
-      { hid: 'og:image', property: 'og:image', content: 'https://haato.moe/img/og_common.jpg' },
+      { hid: 'og:image', property: 'og:image', content: 'https://haato.club/img/og_common.jpg' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:site', content: '@lonely_ion' }
     ],
@@ -80,7 +80,7 @@ export default {
       dark: false,
       themes: {
         light: {
-          primary: colors.blue.base,
+          primary: colors.deepOrange.base,
           secondary: colors.grey.darken4,
           accent: colors.blue.lighten2,
           error: colors.deepOrange.base,
@@ -89,7 +89,7 @@ export default {
           success: colors.teal.base
         },
         dark: {
-          primary: colors.blue.darken3,
+          primary: colors.deepOrange.darken3,
           secondary: colors.grey.darken4,
           accent: colors.lightBlue.darken4,
           error: colors.deepOrange.accent4,
@@ -125,7 +125,7 @@ export default {
   },
   sitemap: {
     path: '/sitemap.xml',
-    hostname: 'https://haato.moe',
+    hostname: 'https://haato.club',
     routes: [
       {
         url: '/',

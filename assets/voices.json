@@ -67,36 +67,36 @@
           "name": "萝莉心01-（胜利）",
           "path": "2.萝莉心/萝莉心01-（胜利）.mp3",
           "description": {
-            "zh": "萝莉心01-（胜利）",
-            "ja": "ロリはあと01 （勝利）",
-            "en": "loliHaato01 （winning）"
+            "zh": "胜利",
+            "ja": "勝利",
+            "en": "winning"
           }
         },
         {
           "name": "萝莉心02-辱骂",
           "path": "2.萝莉心/萝莉心02-辱骂.mp3",
           "description": {
-            "zh": "萝莉心02-（辱骂）",
-            "ja": "ロリはあと02 （バカバカバカアホアホアホバカアホバカアホバカアホ）",
-            "en": "loliHaato02 (bad words)"
+            "zh": "辱骂",
+            "ja": "バカバカバカアホアホアホバカアホバカアホバカアホ）",
+            "en": "bad words"
           }
         },
         {
           "name": "萝莉心03-看着我可爱的身姿被萌死吧mp3",
           "path": "2.萝莉心/萝莉心03-看着我可爱的身姿被萌死吧mp3.mp3",
           "description": {
-            "zh": "萝莉心03-（看着我可爱的身姿被萌死吧）",
-            "ja": "ロリはあと03 （私の可愛い姿を見て萌え死にしなさい）",
-            "en": "loliHaato03 (Just watch and die of my cuteness )"
+            "zh": "看着我可爱的身姿被萌死吧",
+            "ja": "私の可愛い姿を見て萌え死にしなさい",
+            "en": "Just watch and die of my cuteness "
           }
         },
         {
           "name": "萝莉心04-贵安，我是心心哟",
           "path": "2.萝莉心/萝莉心04-贵安，我是心心哟.mp3",
           "description": {
-            "zh": "萝莉心04-贵安，我是心心哟",
-            "ja": "ロリはあと04 （こんにちは、あかいはあとで～す）",
-            "en": "loliHaato04 (Hello everyone, AkaiHaato here~)"
+            "zh": "贵安，我是心心哟",
+            "ja": "こんにちは、あかいはあとで～す",
+            "en": "Hello everyone, AkaiHaato here~"
           }
         }
       ]
